@@ -9,3 +9,4 @@ The classifier works as follows:
 4. Define the model as the bisector line of the closest points segment.
 5. Classify the new points according to their position relatively to the model line.
 
+![EXAMPLE](image.JPG)
